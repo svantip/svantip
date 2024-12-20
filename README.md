@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in web
 ---
 
 ## 🌟 Highlights
-- 🏆 FIDIT bachlor's degree
+- 🏆 FIDIT bachelor's degree
 - 🖥️ Check out my favorite project: [YumeYokujo](https://github/svantip/YumeYokujo)
 
 ---
