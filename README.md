@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Svan!
 
-<!--
-**svantip/svantip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with an interest in web development, data science and machine learning. Here you'll find some of my projects, collaborations, and personal endeavors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, Kotlin, Java
+- **Frameworks & Libraries:** Next.js, Django, Tailwind
+- **Tools & Platforms:** Git, Docker
+
+---
+
+## 🚀 What I’m Working On
+- 🌱 Currently learning fullstack development.
+- 🔭 Exploring machine learning.
+- 🤝 Open to collaborating.
+
+---
+
+## 🌟 Highlights
+- 🏆 FIDIT bachlor's degree
+- 🖥️ Check out my favorite project: [Project Name](https://github/svantip/YumeYokujo)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svantiphow_icons=true&theme=radical)
+
+---
+
+## 📬 Get in Touch
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/svan-tipuri%C4%87-45a6a5291/))
+
+---
+
+## ⚡ Fun Fact
+My commit messages are often more creative than my actual code.
+
+---
+
+### ✨ Thank you for visiting my profile! ✨
+Feel free to check out my repositories and get in touch if you'd like to collaborate or just say hi. 😊
