@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in web
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svantiphow_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svantip&show_icons=true&theme=radical)
 
 ---
 
