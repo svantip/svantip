@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in web
 
 ## 🌟 Highlights
 - 🏆 FIDIT bachlor's degree
-- 🖥️ Check out my favorite project: [Project Name](https://github/svantip/YumeYokujo)
+- 🖥️ Check out my favorite project: [YumeYokujo](https://github/svantip/YumeYokujo)
 
 ---
 
